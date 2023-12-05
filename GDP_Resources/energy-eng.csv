@@ -1,0 +1,50 @@
+﻿"Gross domestic product (GDP) at basic prices, by industry, provinces and territories, growth rates (x 1,000,000) c 1 2 3 4 5 6 7",,,,,
+Frequency: Annual,,,,,
+Table: 36-10-0402-02,,,,,
+Release date: 2023-11-08,,,,,
+Geography: Province or territory,,,,,
+,,,,,
+,,,,,
+,,,,,
+North American Industry Classification System (NAICS) 7 8 9,Energy sector  [T016] 10,,,,
+Value,Chained (2017) dollars 11,,,,
+Geography,2018,2021,2022,2021 to 2022,2018 to 2022
+,Dollars,,,,
+Newfoundland and Labrador,"6,223.70","6,147.80","5,653.10",-8,-9.2
+Prince Edward Island,73.6,79,77,-2.5,4.6
+Nova Scotia,937,865.7,854.6,-1.3,-8.8
+New Brunswick,"1,456.80","1,705.60","1,723.70",1.1,18.3
+Quebec,"14,482.20","13,900.00","13,968.20",0.5,-3.5
+Ontario,"18,627.80","17,816.20","18,094.30",1.6,-2.9
+Manitoba,"3,576.70","3,281.70","3,797.10",15.7,6.2
+Saskatchewan,"12,997.50","11,795.80","12,043.40",2.1,-7.3
+Alberta,"73,244.70","71,722.40","76,389.30",6.5,4.3
+British Columbia,"14,850.20","14,554.30","15,456.70",6.2,4.1
+Yukon,43.3,55.2,54.4,-1.4,25.6
+Northwest Territories,109.5,185.4,185.6,0.1,69.5
+Nunavut,45,47.1,46,-2.3,2.2
+,,,,,
+,,,,,
+Table Corrections:,,,,,
+Date,Note,,,,
+2015-06-22,"On June 22, 2015, provincial and territorial values for special aggregates (tabulations T002 through T016) were corrected for 2014 and subsequently revised in November, 2015 as part of the annual revision.",,,,
+,,,,,
+,,,,,
+,,,,,
+Footnotes:,,,,,
+1,"For the gross domestic product (GDP) by industry refer to table 36-10-0434-03 (formerly CANSIM 379-0031) for Canada in chained dollars, table 36-10-0401-01 (formerly CANSIM 379-0029) for Canada in current dollars, table 36-10-0400-01 (formerly CANSIM 379-0028) for provinces and territories in percentage share.",,,,
+2,"For the chained dollars, the aggregates are not equal to the sum of their components.",,,,
+3,"On June 22, 2015, provincial and territorial values for special aggregates (tabulations T002 through T016) were corrected for 2014 and subsequently revised in November, 2015 as part of the annual revision.",,,,
+4,"The November 10, 2015 release incorporates comprehensive revisions to the provincial-territorial estimates of gross domestic product by industry for reference years 2007 to 2014. For more information on the source of these changes, consult the <a href=http://www.statcan.gc.ca/pub/13-605-x/2015003/article/14153-eng.htm"">Latest Developments in the Canadian Economic Accounts in the system of macroeconomic accounts module</a>.""",,,,
+5,"As part of the 2015 comprehensive revision of the Canadian System of Macroeconomic Accounts (CSMA), the provincial-territorial Gross Domestic Product (GDP) by industry data in chained (2007) dollars for the period 1997 to 2006 have been released on December 15, 2015. The data for the period 1997 to 2006 have been aligned with those published on November 10, 2015 for the period 2007 to 2014. In addition, the chained (2007) dollars for the provincial and territorial GDP for the following three aggregates were revised for the period 2007-2014 vis-à-vis those released on November 10, 2015: information and communication technology-total, information and communication technology-manufacturing, and information and communication technology-services. The growth rates for these three series for the 2008-2014 period were unaffected.",,,,
+6,"With November 8, 2018 release, current price and chained Fisher Gross Domestic Product (GDP) estimates by industry for the period 1997 to 2006 have been revised to improve the continuity of the GDP by industry time series and to enhance their coherence with expenditure-based GDP.",,,,
+7,"With May 1, 2019 release, the provincial and territorial gross domestic product (GDP) by industry adopted the <a href=https://www.statcan.gc.ca/eng/subjects/standard/naics/2017/v3/index"">North American Industry Classification System (NAICS) Canada 2017 version 3.0</a>.""",,,,
+8,"Since October 17, 2018, the sale of cannabis for non-medical purposes is legal in Canada. The provincial and territorial gross domestic product (GDP) by industry estimates will begin to take into account this activity and the licensed production of cannabis, as well as the unlicensed production and sale of cannabis, in the release of May 1, 2019 data. For more information, please read the article <a href=""https://www150.statcan.gc.ca/n1/pub/13-605-x/2018001/article/54969-eng.htm"">Integrating the production"," distribution and consumption of cannabis in the Canadian national economic accounts</a>"".""",,,
+9,"With the legalization of production and sale of edible cannabis, cannabis extracts and cannabis topicals in Canada on October 17, 2019, beginning in reference year 2019, industry 3122 (Tobacco manufacturing) also includes cannabis product manufacturing.",,,,
+10,"Aggregate T016 combines the North American Industry Classification System (NAICS) codes 211, 2121, 21229, 213111, 213118, 2211, 2212, 32411, 486.",,,,
+11,"With November 8, 2023 release, the series from 1997 to 2022 now have as a reference year 2017 instead of 2012.",,,,
+,,,,,
+,,,,,
+,,,,,
+"How to cite: Statistics Canada. Table 36-10-0402-02  Gross domestic product (GDP) at basic prices, by industry, provinces and territories, growth rates (x 1,000,000)",,,,,
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610040202,,,,,
